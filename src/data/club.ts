@@ -18,6 +18,6 @@ export const currentCaravan = {
   title: 'Caravane LAHLAL 2027',
   date: 'Janvier 2027',
   location: 'Village LAHLAL, commune Aït Mazigh, province d’Azilal',
-  families: 56,
+  families: 60,
   goals: 'Paniers alimentaires, vêtements et couvertures ; projets envisagés de mosquée et de puits, sous réserve des études et autorisations nécessaires.',
 } as const;
