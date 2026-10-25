@@ -145,7 +145,7 @@ export default function App() {
                 allowFullScreen
               />
             </div>
-            <p className="map-note">La carte intégrée effectue une recherche par nom de lieu. Pour consulter le point partagé par l'équipe, utilisez le bouton Google Maps ci-dessus.</p>
+            <p className="map-note">Pour consulter le point partagé par l'équipe, utilisez le bouton Google Maps ci-dessus.</p>
           </div>
         </div>
       </section>
