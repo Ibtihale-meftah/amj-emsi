@@ -154,7 +154,7 @@ export default function App() {
           <div className="solidarity-intro">
             <p className="eyebrow">APPEL À LA SOLIDARITÉ · LAHLAL 2027</p>
             <h2 id="solidarity-title">Un petit geste, <em>un grand impact.</em></h2>
-            <p className="section-copy">En janvier 2027, notre caravane souhaite apporter une aide concrète à 56 familles du village LAHLAL. Il existe plusieurs façons de nous accompagner.</p>
+            <p className="section-copy">En janvier 2027, notre caravane souhaite apporter une aide concrète à 60 familles du village LAHLAL. Il existe plusieurs façons de nous accompagner.</p>
           </div>
           <div className="contribution-grid">
             {contributionTypes.map(({ title, description, icon: Icon }) => (
